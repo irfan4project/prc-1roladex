@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prc-1roladex/static/css/main.94b04abe.chunk.css",
+    "main.js": "/prc-1roladex/static/js/main.dc37c8b5.chunk.js",
+    "main.js.map": "/prc-1roladex/static/js/main.dc37c8b5.chunk.js.map",
+    "runtime-main.js": "/prc-1roladex/static/js/runtime-main.d9b5e361.js",
+    "runtime-main.js.map": "/prc-1roladex/static/js/runtime-main.d9b5e361.js.map",
+    "static/js/2.d8d20882.chunk.js": "/prc-1roladex/static/js/2.d8d20882.chunk.js",
+    "static/js/2.d8d20882.chunk.js.map": "/prc-1roladex/static/js/2.d8d20882.chunk.js.map",
+    "index.html": "/prc-1roladex/index.html",
+    "precache-manifest.68a7c8b3b2d1cac4f6275d36d4662e3e.js": "/prc-1roladex/precache-manifest.68a7c8b3b2d1cac4f6275d36d4662e3e.js",
+    "service-worker.js": "/prc-1roladex/service-worker.js",
+    "static/css/main.94b04abe.chunk.css.map": "/prc-1roladex/static/css/main.94b04abe.chunk.css.map",
+    "static/js/2.d8d20882.chunk.js.LICENSE": "/prc-1roladex/static/js/2.d8d20882.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9b5e361.js",
+    "static/js/2.d8d20882.chunk.js",
+    "static/css/main.94b04abe.chunk.css",
+    "static/js/main.dc37c8b5.chunk.js"
+  ]
+}
